@@ -1,0 +1,26 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  },
+  "devDependencies": {
+    "express-toastr": "^2.0.2"
+  },
+  "description": "This is a Form Validation Project using Regex Pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/md-miraz-uddin/node-form.git"
+  },
+  "author": "Md. Miraz Uddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/md-miraz-uddin/node-form/issues"
+  },
+  "homepage": "https://github.com/md-miraz-uddin/node-form#readme"
+}
